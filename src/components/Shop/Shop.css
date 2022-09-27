@@ -1,9 +1,12 @@
 .shop-container {
   display: grid;
   grid-template-columns: 3fr 1fr;
+  position: relative;
 }
 .cart-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 10px;
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
 }

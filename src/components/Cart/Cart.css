@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.shopping-cart {
+  width: 100%;
+  height: 944px;
+  background: rgba(255, 153, 0, 0.3);
+  position: sticky;
+  top: 0;
+}
