@@ -1,0 +1,17 @@
+.header {
+  background: rgba(28, 43, 53, 1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  padding: 18px 80px;
+}
+nav a {
+  text-decoration: none;
+  margin-right: 10px;
+  color: white;
+}
+nav a:hover {
+  color: orange;
+  font-weight: 700;
+}
